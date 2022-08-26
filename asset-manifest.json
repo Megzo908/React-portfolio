@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/React-portfolio/static/css/main.f35d185e.css",
-    "main.js": "/React-portfolio/static/js/main.ebdd1a0a.js",
+    "main.js": "/React-portfolio/static/js/main.984848e5.js",
     "static/media/Spacetourist.PNG": "/React-portfolio/static/media/Spacetourist.15f25c074aed05f94a6d.PNG",
     "static/media/Fiber.PNG": "/React-portfolio/static/media/Fiber.10b52d05390dc6ec76ec.PNG",
     "static/media/Udacitylandingpage.PNG": "/React-portfolio/static/media/Udacitylandingpage.66d7d66f10fd7d7d0b8e.PNG",
@@ -16,10 +16,10 @@
     "static/media/javascript.png": "/React-portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/React-portfolio/index.html",
     "main.f35d185e.css.map": "/React-portfolio/static/css/main.f35d185e.css.map",
-    "main.ebdd1a0a.js.map": "/React-portfolio/static/js/main.ebdd1a0a.js.map"
+    "main.984848e5.js.map": "/React-portfolio/static/js/main.984848e5.js.map"
   },
   "entrypoints": [
     "static/css/main.f35d185e.css",
-    "static/js/main.ebdd1a0a.js"
+    "static/js/main.984848e5.js"
   ]
 }
