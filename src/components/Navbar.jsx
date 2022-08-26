@@ -52,7 +52,7 @@ const Navbar = () => {
     },
     {
       name: 'Resume',
-      link: 'https://drive.google.com/file/d/1aw3rdYQXucixlrJvNeNKHYCtAuNlULPF/view?usp=sharing',
+      link: 'https://drive.google.com/file/d/1yHaH_O55Fn6A-FzOhvhRF6DeJdP3iv2G/view?usp=sharing',
       color: 'bg-[#565f69]',
       logo: BsFillPersonLinesFill,
     },
